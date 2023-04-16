@@ -9,16 +9,20 @@ for a cooling fan to be added.
 
 ## BOM
 
-| Quantity | Description          |
-|----------|----------------------|
-| 1        | 4010 cooling fan 24V |
-| 1        | DSK24 Diode          |
-| 2        | BZT52C5V1S Diode     |
-| 1        | SS56 Diode           |
-| 1        | 0805 10kΩ resistor   |
-| 1        | 0805 1kΩ resistor    |
-| 2        | JST PH 3P 2.54mm     |
-| 1        | JST PH 2P 2.54mm     |
+| Quantity | Designation    | Description          |
+|----------|----------------|----------------------|
+| 1        | SHOTTKY2       | DSK24 Diode          |
+| 2        | SHOTTKY1       | BZT52C5V1S Diode     |
+| 1        | ZENER1, ZENER2 | SS56 Diode           |
+| 1        | R2             | 0805 10kΩ resistor   |
+| 1        | R1             | 0805 1kΩ resistor    |
+| 2        | J1, J2         | JST PH 3P 2.54mm     |
+| 1        | J3             | JST PH 2P 2.54mm     |
+| 1        | -              | 4010 cooling fan 24V |
+| 2        | -              | M3x6                 |
+| 4        | -              | M3x12                |
+| 4        | -              | M3 hex nut           |
+| 4        | -              | M3 heat set insert   |
 
 ## Pinout
 
