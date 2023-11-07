@@ -242,7 +242,7 @@
     (at 132.836798 116.263203)
     (descr "Mounting Hole 3.2mm, M3, DIN965")
     (tags "mounting hole 3.2mm m3 din965")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at 0 -3.8) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 58dded7a-bd9f-4a46-952f-259e21ddab8c)
@@ -544,7 +544,7 @@
     (at 175.263204 73.836797)
     (descr "Mounting Hole 3.2mm, M3, DIN965")
     (tags "mounting hole 3.2mm m3 din965")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at 0 -3.8) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 56d5ba59-da35-4c9f-8a96-59d2794ad504)
@@ -7750,7 +7750,7 @@
       )
     )
   )
-  (group "" locked (id aa4c420b-253f-424c-869d-2914d2b59a1d)
+  (group "Board to Roborock" locked (id aa4c420b-253f-424c-869d-2914d2b59a1d)
     (members
       3c959056-06c6-4512-8b38-88dda6e58f93
       9435700a-b48b-4e1f-8ab6-a9b053600f74
