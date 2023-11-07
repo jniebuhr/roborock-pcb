@@ -810,7 +810,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 210.82 144.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 02b8415e-1c01-4bb6-9875-eeeca822fdba)
     (property "Reference" "#PWR0109" (id 0) (at 210.82 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -878,7 +878,7 @@
   )
 
   (symbol (lib_id "power:PWR_FLAG") (at 220.98 142.24 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 233b774a-3f5e-4f7e-8535-91964140671f)
     (property "Reference" "#FLG0102" (id 0) (at 220.98 140.335 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -948,7 +948,7 @@
   )
 
   (symbol (lib_id "power:VCC") (at 210.82 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid 384230c5-eef2-4a51-9856-f911acae675e)
     (property "Reference" "#PWR0108" (id 0) (at 210.82 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1018,7 +1018,7 @@
   )
 
   (symbol (lib_id "power:PWR_FLAG") (at 220.98 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 65640fa7-e868-42a5-81f2-bd1d119382d0)
     (property "Reference" "#FLG0101" (id 0) (at 220.98 132.715 0)
       (effects (font (size 1.27 1.27)) hide)
