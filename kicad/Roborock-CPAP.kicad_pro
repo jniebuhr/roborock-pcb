@@ -372,7 +372,13 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "GND": "rgb(72, 72, 72)",
+      "PWM_IN": "rgb(0, 0, 194)",
+      "PWM_OUT": "rgb(0, 255, 255)",
+      "VCC": "rgb(255, 0, 0)",
+      "VCC_FUSED": "rgb(194, 0, 0)"
+    }
   },
   "pcbnew": {
     "last_paths": {

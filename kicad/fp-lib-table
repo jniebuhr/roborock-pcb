@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Roborock-CPAP")(type "KiCad")(uri "${KIPRJMOD}/Roborock-CPAP.pretty")(options "")(descr ""))
+)
