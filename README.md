@@ -34,6 +34,9 @@ for a cooling fan to be added.
 
 ![](assets/pinout.png)
 
+**Attention:**  
+This pinout changed in version 0.2.0 due to a rotation of a connector. The same cables will work though since the connector has only been rotated. Refer to the writing on the back of your board.
+
 ## Ordering
 
 The files to order this PCB are in the `kicad/jlcpcb` sub-folder. These work with the JLCPCB assembly service as well, there will be extended component fees though.
