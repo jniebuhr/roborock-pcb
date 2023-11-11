@@ -40,3 +40,10 @@ This pinout changed in version 0.2.0 due to a rotation of a connector. The same 
 ## Ordering
 
 The files to order this PCB are in the `kicad/jlcpcb` sub-folder. These work with the JLCPCB assembly service as well, there will be extended component fees though.
+
+## License
+
+This project is licensed as
+![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
+
+https://creativecommons.org/licenses/by-nc/4.0/
