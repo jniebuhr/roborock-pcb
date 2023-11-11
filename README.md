@@ -7,6 +7,10 @@ This repository contains a custom PCB for use with the awesome work at [Roborock
 The logic is the same as in the work of [stas2z](https://github.com/stas2z) but reshaped to better fit on the back of the blower while also allowing
 for a cooling fan to be added.
 
+![](assets/Roborock-CPAP_dimtc-right.png)
+
+## Assembly
+
 ![](assets/cpap_render.png)
 
 ## BOM
@@ -30,9 +34,12 @@ for a cooling fan to be added.
 
 ![](assets/pinout.png)
 
+**Attention:**  
+This pinout changed in version 0.2.0 due to a rotation of a connector. The same cables will work though since the connector has only been rotated. Refer to the writing on the back of your board.
+
 ## Ordering
 
-The files to order this PCB are in the `jlcpcb` sub-folder. These work with the JLCPCB assembly service as well, there will be extended component fees though.
+The files to order this PCB are in the `kicad/jlcpcb` sub-folder. These work with the JLCPCB assembly service as well, there will be extended component fees though.
 
 ## License
 
