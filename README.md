@@ -41,6 +41,13 @@ This pinout changed in version 0.2.0 due to a rotation of a connector. The same 
 
 The files to order this PCB are in the `kicad/jlcpcb` sub-folder. These work with the JLCPCB assembly service as well, there will be extended component fees though.
 
+## Mounting options
+
+I have also developed some additional mounting options for the Roborock Fan:
+
+* [VzBot 235](mounting/vzbot-235)
+* more coming soon...
+
 ## License
 
 This project is licensed as  
