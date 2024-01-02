@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC Part #
+1K Resistor,R1,R_1206_3216Metric,C4410
+10K Resistor,R2,R_1206_3216Metric,C17414
+SS56 Schottky diode,SBD1,D_SMA,C22452
+MDD DSK24 Schottky diode,SBD2,D_SMA,C8678
+BZT52C5V1S Zener diode,"ZD1,ZD2",D_SOD-323,C2910089
