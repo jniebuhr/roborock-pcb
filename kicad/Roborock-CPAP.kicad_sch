@@ -1130,7 +1130,7 @@
     (property "Datasheet" "~" (at 134.112 50.292 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C17414" (at 134.112 46.1264 0)
+    (property "LCSC" "C17902" (at 134.112 46.1264 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 61e09665-dc78-4e9d-88d5-4d811b2251fe))
