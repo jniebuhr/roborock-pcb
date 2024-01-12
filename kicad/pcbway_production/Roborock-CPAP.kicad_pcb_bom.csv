@@ -1,0 +1,29 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+FAN1,1,Axial fan 40mm,Axial fan 40mm,,tht
+"H1, H2",2,BoardMount_Pad,MountingHole_3.2mm_M3_DIN965_Pad_TopOnly,,tht
+J1,1,INPUT,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+J2,1,MOTOR,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,,tht
+J3,1,FAN,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,tht
+R1,1,1K,R_1206_3216Metric,,smt
+R2,1,10K,R_1206_3216Metric,,smt
+SBD1,1,SS54,D_SMA,,smt
+SBD2,1,SS34,D_SMA,,smt
+"ZD1, ZD2",2,BZT52C5V1S,D_SOD-323,,smt
+kibuzzard-658C2196,1,G***,kibuzzard-658C2196,,tht
+kibuzzard-658C21F4,1,G***,kibuzzard-658C21F4,,tht
+kibuzzard-658C2284,1,G***,kibuzzard-658C2284,,tht
+kibuzzard-658C22D5,1,G***,kibuzzard-658C22D5,,tht
+kibuzzard-658C2303,1,G***,kibuzzard-658C2303,,tht
+kibuzzard-658C2312,1,G***,kibuzzard-658C2312,,tht
+kibuzzard-658C2324,1,G***,kibuzzard-658C2324,,tht
+kibuzzard-658C2360,1,G***,kibuzzard-658C2360,,tht
+kibuzzard-658C236E,1,G***,kibuzzard-658C236E,,tht
+kibuzzard-658C23C6,1,G***,kibuzzard-658C23C6,,tht
+kibuzzard-658C23F8,1,G***,kibuzzard-658C23F8,,tht
+kibuzzard-658C2410,1,G***,kibuzzard-658C2410,,tht
+kibuzzard-658C47D4,1,G***,kibuzzard-658C47D4,,tht
+kibuzzard-659E6D3A,1,G***,kibuzzard-659E6D3A,,tht
+kibuzzard-659E705B,1,G***,kibuzzard-659E705B,,tht
+kibuzzard-659E706B,1,G***,kibuzzard-659E706B,,tht
+kibuzzard-659FE543,1,G***,kibuzzard-659FE543,,tht
+kibuzzard-659FE8A4,1,G***,kibuzzard-659FE8A4,,tht
