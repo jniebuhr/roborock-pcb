@@ -19,7 +19,7 @@ for a cooling fan to be added.
 |----------|----------------|----------------------|
 | 1        | SHOTTKY2       | SS34 Diode           |
 | 2        | SHOTTKY1       | SS54 Diode           |
-| 1        | ZENER1, ZENER2 | SS56 Diode           |
+| 1        | ZENER1, ZENER2 | BZT52C5V1S Diode     |
 | 1        | R2             | 1206 10kΩ resistor   |
 | 1        | R1             | 1206 1kΩ resistor    |
 | 2        | J1, J2         | JST XH 3P 2.54mm     |
