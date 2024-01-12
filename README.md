@@ -32,10 +32,11 @@ for a cooling fan to be added.
 
 ## Pinout
 
-![](assets/pinout.png)
+The pinout can be found on the back side of your board. 
 
 **Attention:**  
-This pinout changed in version 0.2.0 due to a rotation of a connector. The same cables will work though since the connector has only been rotated. Refer to the writing on the back of your board.
+This motor pinout changed in version 0.2.0 due to a rotation of a connector. The same cables will work though since the connector has only been rotated. Refer to the writing on the back of your board.
+In version 0.2.0, the 2 pin fan connector was labeled with switched GND and VCC.
 
 ## Ordering
 
