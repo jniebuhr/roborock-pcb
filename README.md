@@ -33,7 +33,9 @@ for a cooling fan to be added.
 
 ## Pinout
 
-The pinout can be found on the back side of your board. 
+![](assets/pinout.png)
+
+The pinout can also be found on the back side of your board and may be different from the most recent version (see note below). 
 
 **Attention:**  
 This motor pinout changed in version 0.2.0 due to a rotation of a connector. The same cables will work though since the connector has only been rotated. Refer to the writing on the back of your board.

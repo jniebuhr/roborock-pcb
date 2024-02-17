@@ -1,0 +1,8 @@
+{
+"R1": "Resistor_SMD:R_1206",
+"R2": "Resistor_SMD:R_1206",
+"SBD1": "Diode_SMD:D_DO-214",
+"SBD2": "Diode_SMD:D_DO-214",
+"ZD1": "Diode_SMD:D_SOD-323",
+"ZD2": "Diode_SMD:D_SOD-323"
+}
