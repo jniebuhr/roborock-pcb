@@ -52,6 +52,10 @@ I have also developed some additional mounting options for the Roborock Fan:
 * [VzBot 235](mounting/vzbot-235)
 * more coming soon...
 
+## Sponsors
+
+The development of this board was kindly supported by [PCBWay](https://www.pcbway.com/) who sent me some prototypes of these boards free of charge.
+
 ## License
 
 This work is licensed under a
