@@ -43,7 +43,11 @@ In version 0.2.0, the 2 pin fan connector was labeled with switched GND and VCC.
 
 ## Ordering
 
-The files to order this PCB are in the `kicad/jlcpcb` sub-folder. These work with the JLCPCB assembly service as well, there will be extended component fees though.
+In order to support this project, please consider ordering it through my affiliate link.
+
+<a href="https://www.pcbway.com/project/shareproject/Roborock_CPAP_PCB_dc4ef951.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
+The gerber and BOM/CPL files can be found under `kicad/`.
 
 ## Mounting options
 
